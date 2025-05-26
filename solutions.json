@@ -1,4 +1,5 @@
 [
-  { "id": "231A", "title": "Team", "tags": ["brute force", "greedy","*800"], "solution": "Div2_A/231A.c" },
+  { "id": "228A", "title": "Is your horseshoe on the other hoof?", "tags": ["implementation","*800"], "solution": "Div2_A/228A.c" },
+  { "id": "231A", "title": "Team", "tags": ["brute force", "greedy","*800"], "solution": "Div2_A/231A.c" }
 ]
 
