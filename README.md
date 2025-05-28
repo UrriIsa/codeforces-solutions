@@ -20,13 +20,14 @@ pero de igual manera puedes hacer click. La realización de estos inicia en el s
 
 La estructura es muy sencilla, dentro del repositorio existen disntintas carpetas que indican la división y nivel de los problemas que se pueden encontrar ahí. En general variarían los lenguajes con los que se resuelven.
 
+```plaintext
 codeforces-solutions/
 │── Div2_A/            # Soluciones de problemas de la división 2, nivel A
 │   ├── 228A.c         # Solución al problema 228A
 │   ├── 231A.c         # Solución al problema 231A
 │── solutions.json     # Archivo con metadata de los problemas resueltos
 │── README.md          # Documentación del repositorio
-
+```
 
 ## Archivo `solutions.json`
 
