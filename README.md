@@ -5,7 +5,7 @@ pero de igual manera puedes hacer click. La realización de estos inicia en el s
 
 ***Traduction :***
 
-This repository contains solutions to Codeforces problems, organized by difficulty and division. In my profile you can see a link to my [Codeforces] profile (https://codeforces.com/profile/Urri), 
+This repository contains solutions to Codeforces problems, organized by difficulty and division. In my profile you can see a link to my [Codeforces](https://codeforces.com/profile/Urri), 
 but you can click on it anyway. The realization of these starts in the second semester of my bachelor's degree. The solutions are recorded in a JSON file for easy access and search.
 
 ---
