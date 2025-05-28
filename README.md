@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-Este repositorio contiene soluciones a problemas de Codeforces, organizadas por dificultad y división. En mi perfil se puede observar un link hacia mi perfil de [Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?), 
+Este repositorio contiene soluciones a problemas de Codeforces, organizadas por dificultad y división. En mi perfil se puede observar un link hacia mi perfil de [Codeforces](https://codeforces.com/profile/Urri), 
 pero de igual manera puedes hacer click. La realización de estos inicia en el segundo semestre de mi licenciatura. La soluciones se registran en un archivo JSON para facilitar el acceso y la búsqueda.
 
 
