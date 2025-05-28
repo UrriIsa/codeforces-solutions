@@ -10,6 +10,7 @@ pero de igual manera puedes hacer click. La realización de estos inicia en el s
 
 - [Estructura / Structure](#estructura--structure)
 - [Cómo Usarlo / How tu use](#cómo-usarlo--how-to-use)
+    - [Archivo `solutions.json`](#archivo-solutionsjson)
 - [Contribuciones y Mejoras / Contributions and Improvements](#contribuciones-y-mejoras--contributions-and-improvements)
 - [Licencia / License](#licencia--license)
 
@@ -27,7 +28,7 @@ codeforces-solutions/
 │── README.md          # Documentación del repositorio
 ```
 
-## Archivo `solutions.json`
+### Archivo `solutions.json`
 
 Este archivo contiene información sobre cada problema resuelto, incluyendo su **ID**, **título**, **etiquetas** y la ruta de la solución en el repositorio. Ejemplo de estructura:
 
