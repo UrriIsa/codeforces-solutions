@@ -1,12 +1,12 @@
 # Codeforces Solutions
 
 Este repositorio contiene soluciones a problemas de Codeforces, organizadas por dificultad y división. En mi perfil se puede observar un link hacia mi perfil de [Codeforces](https://codeforces.com/profile/Urri), 
-pero de igual manera puedes hacer click. La realización de estos inicia en el segundo semestre de mi licenciatura. La soluciones se registran en un archivo JSON para facilitar el acceso y la búsqueda.
+pero de igual manera puedes hacer click. La realización de estos inicia en el segundo semestre de mi licenciatura. La soluciones se registran en un archivo JSON para facilitar el acceso y la búsqueda. Puede que las divisiones estén mal, sin embargo, están las soluciones de los ejercicios.
 
 ***Traduction :***
 
 This repository contains solutions to Codeforces problems, organized by difficulty and division. In my profile you can see a link to my [Codeforces](https://codeforces.com/profile/Urri), 
-but you can click on it anyway. The realization of these starts in the second semester of my bachelor's degree. The solutions are recorded in a JSON file for easy access and search.
+but you can click on it anyway. The realization of these starts in the second semester of my bachelor's degree. The solutions are recorded in a JSON file for easy access and search. The divisions may be wrong, however, there are the solutions to the exercises.
 
 ---
 
@@ -31,9 +31,10 @@ The structure is very simple, within the repository there are different folders 
 
 ```plaintext
 codeforces-solutions/
-│── Div2_A/            # Soluciones de problemas de la división 2, nivel A
-│── solutions.json     # Archivo con metadata de los problemas resueltos
-│── README.md          # Documentación del repositorio
+│──Div2_A/            # Soluciones de problemas de la división 2, nivel A
+|──Div3_B/            #Soluciones de problemas de la división 2, nivel B
+│──solutions.json     # Archivo con metadata de los problemas resueltos
+│──README.md          # Documentación del repositorio
 ```
 
 ### Archivo `solutions.json` / File `solutions.json`
