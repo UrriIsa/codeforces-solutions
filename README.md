@@ -31,13 +31,19 @@ The structure is very simple, within the repository there are different folders 
 
 ```plaintext
 codeforces-solutions/
-│──Div2_A/            # Soluciones de problemas de la división 2, nivel A
-|──Div3_B/            #Soluciones de problemas de la división 2, nivel B
-│──solutions.json     # Archivo con metadata de los problemas resueltos
-│──README.md          # Documentación del repositorio
+├─ soluciones/
+│  ├─ Div2_A/        # Soluciones de problemas de la división 2, nivel A
+│  └─ Div3_B/        # Soluciones de problemas de la división 2, nivel B
+│
+├─ scripts/
+│  └─ genSols.js     # Generador de JSON
+│
+├─ soluciones.json   # Lista de soluciones
+|
+└─README.md          # Documentación del repositorio
 ```
 
-### Archivo `solutions.json` / File `solutions.json`
+### Archivo `soluciones.json` / File `soluciones.json`
 
 Este archivo contiene información sobre cada problema resuelto, incluyendo su **ID**, **título**, **etiquetas** y la ruta de la solución en el repositorio. Ejemplo de estructura:
 
@@ -56,19 +62,19 @@ This file contains information about each solved problem, including its **ID**, 
 
 ## Cómo Usarlo / How to use
 
-1. Usa `solutions.json` para identificar el problema asociado a cada archivo.
+1. Usa `soluciones.json` para identificar el problema asociado a cada archivo.
 2. Explora la carpeta que desees para ver las soluciones.
 3. Si deseas agregar una nueva solución:
    - Guarda el código en la carpeta correspondiente.
-   - Añade una nueva entrada en `solutions.json`, respetando el formato.
+   - Corre el archivo scripts/genSols.js para actualizar las entradas de `soluciones.json`
   
 ***Traduction :*** 
 
-1. Use `solutions.json` to identify the problem associated with each file.
+1. Use `soluciones.json` to identify the problem associated with each file.
 2. Browse the folder of your choice to view the solutions.
 3. If you want to add a new solution:
    - Save the code in the appropriate folder.
-   - Add a new entry in `solutions.json`, respecting the format.
+   - Run the scripts/genSols.js file to update the entries in `soluciones.json`.
 
 
 ---
@@ -95,3 +101,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulte el archivo [LICENC
 
 ***Traduction :***
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
