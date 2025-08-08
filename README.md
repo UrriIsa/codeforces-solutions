@@ -14,7 +14,7 @@ but you can click on it anyway. The realization of these starts in the second se
 
 - [Estructura / Structure](#estructura--structure)
 - [Cómo Usarlo / How tu use](#cómo-usarlo--how-to-use)
-    - [Archivo `solutions.json` / File `solutions.json`](#archivo-solutionsjson--file-solutionsjson)
+    - [Archivo `soluciones.json` / File `soluciones.json`](#archivo-solucionesjson--file-solucionesjson)
 - [Contribuciones y Mejoras / Contributions and Improvements](#contribuciones-y-mejoras--contributions-and-improvements)
 - [Licencia / License](#licencia--license)
 
@@ -101,4 +101,5 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulte el archivo [LICENC
 
 ***Traduction :***
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
